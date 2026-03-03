@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nav-bar {
+  background-color: #333;
+  padding: 15px 10px;
+}
+
+.company-name {
+  color: white;
+  text-decoration: none;
+}
+
+.hero-section {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 30px;
+}
+
+.hero-header {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.hero-para {
+  font-size: 16px;
+}
